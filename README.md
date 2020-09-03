@@ -15,7 +15,7 @@ So far we did a no-knowledge-required hands-on workshops to teach how to use Web
  - ...
 
 ## Food and Crypto?
-Yes ma'am, and in your kitchen! Do not underestimate the power of the kitchen, food unites us all! ✊🥑🍎🥬🍦🍩
+Yes ma'am, and in your kitchen! 🥑🍎🍩 Do not underestimate the power of the kitchen, food unites us all! ✊
 
 ## History
 This project was started for fun in Barcelona in **Feb 2020** at **Akasha Hub** by Igor Line, Ludo Bret and Adrien Berthou. The same crew who leads the **Barcelona Blockchain Love meetup group**. ☀️ Note that it was started out of frustration of having so many blockchain event attendants who had never used basic tools such as Metamask.🤨
