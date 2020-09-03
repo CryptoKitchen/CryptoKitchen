@@ -20,6 +20,9 @@ Yes ma'am, and in your kitchen! Do not underestimate the power of the kitchen, f
 ## History
 This project was started for fun in Barcelona in **Feb 2020** at **Akasha Hub** by Igor Line, Ludo Bret and Adrien Berthou. The same crew who leads the **Barcelona Blockchain Love meetup group**. ☀️ Note that it was started out of frustration of having so many blockchain event attendants who had never used basic tools such as Metamask.🤨
 
+# License
+Everything posted in this repo is under [Creative Commons Zero](https://creativecommons.org/share-your-work/public-domain/cc0/). A kind of "do whatever the F you want license". 🤓 Please help us spread the knowledge, the more educated people will be, the less shitcoins on the planets! We are strong blockchain ecologist fighting for a clean ecosystem 🌎 Else what will we live to our children and grand children? 👶
+
 ## Find us
  - [meetup.com/Barcelona-Blockchain-Love](https://meetup.com/Barcelona-Blockchain-Love) - Crypto Kitchen events are often in this meetup group
  - [twitter.com/@igorlineee](https://twitter.com/@igorlineee)
