@@ -13,7 +13,7 @@ We keep in touch after the event, digitally via chat groups and physically via r
 
 ### Events Descriptions
  - Defi Summer Webinar: covers all the hottest DeFi trends. It is for blockchain-savvy audiences who want an intensive update on the fast-moving DeFi ecosystem. 2h long.
- - Web3 Tools Workshop: introduces to using tools such as Metamask, Trustwallet, DAi, Maker/CDP, and so on. It is for any level. 2h long.
+ - Web3 Tools Workshop: introduces to using tools such as Metamask, Trustwallet, DAi, Maker/CDP, and so on. It is for audiences of any level, no pre-requisites to attend. 2h long.
  
 ### Past Events
  - Sep. 9 2020: Defi Summer Webinar https://www.meetup.com/Barcelona-Blockchain-Love/events/273088791/
@@ -28,7 +28,7 @@ Yes ma'am! 🥑🍎🍩 Do not underestimate the power of the kitchen! ✊
 ## History
 This project was started for fun in Barcelona in **Feb 2020** at **Akasha Hub** by Igor Line, Ludo Bret and Adrien Berthou. The same crew who leads the **Barcelona Blockchain Love meetup group**. ☀️ Note that it was started out of frustration of having so many blockchain event attendants who had never used basic tools such as Metamask.🤨
 
-# License
+## License
 Everything posted in this repo is under [Creative Commons Zero](https://creativecommons.org/share-your-work/public-domain/cc0/). A kind of "do whatever the F you want license". 🤓 Please help us spread the knowledge, the more educated people will be, the less shitcoins on the planets! We are strong blockchain ecologists fighting for a clean ecosystem 🌎 Else what will we be left for our children and grand children? 👶
 
 ## Connect With Us
