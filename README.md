@@ -45,9 +45,10 @@ Joke apart, we believe open source is one very core component of what makes bloc
 This project was started for fun in Barcelona in **Feb 2020** at **Akasha Hub** by Igor Line, Ludo Bret and Adrien Berthou. The same crew who leads the **Barcelona Blockchain Love meetup group**. ☀️ Note that it was started out of frustration of having so many blockchain event attendants who had never used basic tools such as Metamask.🤨
 
 ## Connect With Us
- - 👥 [meetup.com/Barcelona-Blockchain-Love](https://meetup.com/Barcelona-Blockchain-Love) - Crypto Kitchen events are often in this meetup group
- - 📢 [Crypto Kitchen ANN channel on Telegram](https://t.me/joinchat/AAAAAEnQKWhfV9hQZiRRJw)
- - 🐦 [twitter.com/@igorlineee](https://twitter.com/@igorlineee)
- - 📄 [medium.com/@igorline](https://medium.com/@igorline)
- - 🐦 [twitter.com/AdrienBe_](https://twitter.com/AdrienBe_)
- - 📄 [medium.com/@AdrienBe](https://medium.com/@AdrienBe)
+
+ 👥 [meetup.com/Barcelona-Blockchain-Love](https://meetup.com/Barcelona-Blockchain-Love) - Crypto Kitchen events are often in this meetup group
+ 📢 [Crypto Kitchen ANN channel on Telegram](https://t.me/joinchat/AAAAAEnQKWhfV9hQZiRRJw)
+ 🐦 [twitter.com/@igorlineee](https://twitter.com/@igorlineee)
+ 📄 [medium.com/@igorline](https://medium.com/@igorline)
+ 🐦 [twitter.com/AdrienBe_](https://twitter.com/AdrienBe_)
+ 📄 [medium.com/@AdrienBe](https://medium.com/@AdrienBe)
