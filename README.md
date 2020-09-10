@@ -20,7 +20,8 @@ We keep in touch after the event, digitally via chat groups and physically via r
  - Sep. 2 2020: Defi Summer Webinar https://www.meetup.com/Barcelona-Blockchain-Love/events/272952516/
  - Mar. 10 2020: Web3 Tools Workshop https://www.meetup.com/Barcelona-Blockchain-Love/events/269177097/
  - Feb. 26, 2020: Web3 Tools Workshop https://www.meetup.com/Barcelona-Blockchain-Love/events/268826573/
- - ...
+ - Feb. 4, 2020: Web3 Tools Workshop https://www.meetup.com/Akasha-Hub-Barcelona/events/268138120/
+ ...
 
 ## Food and Crypto?
 Yes ma'am! 🥑🍎🍩 Do not underestimate the power of the kitchen! ✊
