@@ -1,5 +1,8 @@
 # Crypto Kitchen
 
+## Food and Crypto?
+Yes ma'am! 🥑🍎🍩 Do not underestimate the power of the kitchen! ✊
+
 ## Why Should You Care?
 Because we started this project for fun, got so much positive feedback and fun that we cannot stop 🙃
 We love the blockchain space and do our best to share our passion and knowledge the way we wish we could have learned about it ourselves 🤓
@@ -19,18 +22,22 @@ We keep in touch after the event, digitally via chat groups and physically via r
  - Sep. 9 2020: Defi Summer Webinar https://www.meetup.com/Barcelona-Blockchain-Love/events/273088791/
  - Sep. 2 2020: Defi Summer Webinar https://www.meetup.com/Barcelona-Blockchain-Love/events/272952516/
  - Mar. 10 2020: Web3 Tools Workshop https://www.meetup.com/Barcelona-Blockchain-Love/events/269177097/
+ - Mar. 23 2020: Blockchain Intro Workshop in Dahab (Egypt)
  - Feb. 26, 2020: Web3 Tools Workshop https://www.meetup.com/Barcelona-Blockchain-Love/events/268826573/
  - Feb. 4, 2020: Web3 Tools Workshop https://www.meetup.com/Akasha-Hub-Barcelona/events/268138120/
  ...
 
-## Food and Crypto?
-Yes ma'am! 🥑🍎🍩 Do not underestimate the power of the kitchen! ✊
-
-## History
-This project was started for fun in Barcelona in **Feb 2020** at **Akasha Hub** by Igor Line, Ludo Bret and Adrien Berthou. The same crew who leads the **Barcelona Blockchain Love meetup group**. ☀️ Note that it was started out of frustration of having so many blockchain event attendants who had never used basic tools such as Metamask.🤨
+## Docs and Slideshows
+ - Slideshow of Crypto Kitchen's Defi Summer Webinar of Sep. 2 2020: https://github.com/adrien-be/crypto-kitchen/blob/master/crypto-kitchen_defi-webinar_2020-09-02.pdf
+ - Slideshow of Crypto Kitchen's Blockchain Intro Workshop of Mar. 23 2020: https://github.com/adrien-be/crypto-kitchen/blob/master/crypto-kitchen_2020-03-22.pdf
+ - Slideshow of Crypto Kitchen's Web3 Tools Workshop of Mar. 10 2020: https://github.com/adrien-be/crypto-kitchen/blob/master/crypto-kitchen_2020-03-10.pdf
+ - Slideshow of Crypto Kitchen's Web3 Tools Workshop of Feb. 26, 2020: https://github.com/adrien-be/crypto-kitchen/blob/master/crypto-kitchen_2020-02-26.pdf
 
 ## License
 Everything posted in this repo is under [Creative Commons Zero](https://creativecommons.org/share-your-work/public-domain/cc0/). A kind of "do whatever the F you want license". 🤓 Please help us spread the knowledge, the more educated people will be, the less shitcoins on the planets! We are strong blockchain ecologists fighting for a clean ecosystem 🌎 Else what will we be left for our children and grand children? 👶
+
+## History
+This project was started for fun in Barcelona in **Feb 2020** at **Akasha Hub** by Igor Line, Ludo Bret and Adrien Berthou. The same crew who leads the **Barcelona Blockchain Love meetup group**. ☀️ Note that it was started out of frustration of having so many blockchain event attendants who had never used basic tools such as Metamask.🤨
 
 ## Connect With Us
  - [meetup.com/Barcelona-Blockchain-Love](https://meetup.com/Barcelona-Blockchain-Love) - Crypto Kitchen events are often in this meetup group
