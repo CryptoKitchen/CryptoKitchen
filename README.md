@@ -1,5 +1,14 @@
 # Crypto Kitchen
 
+## Next Event
+**Sep 23 2020 @ 8PM CET**
+
+Topic: DeFi Summer Webinar
+
+Cost: Free/Gratuit/Kostenlos. 
+
+Details: https://www.meetup.com/Barcelona-Blockchain-Love/events/273157722/
+
 ## Food and Crypto?
 Yes ma'am! 🥑🍎🍩 Do not underestimate the power of the kitchen! 💪
 
