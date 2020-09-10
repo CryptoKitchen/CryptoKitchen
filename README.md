@@ -1,29 +1,37 @@
 # Crypto Kitchen
 
 ## Why Should You Care?
-Coz we started this project for fun but got so much positive feedback and fun that we cannot stop 🙃
-We love what we do and do our best to share knowledge the way we wish we could have learned ourselves.
+Because we started this project for fun, got so much positive feedback and fun that we cannot stop 🙃
+We love the blockchain space and do our best to share our passion and knowledge the way we wish we could have learned about it ourselves 🤓
 
 ## What We Do
-We **educate people of all levels** about the blockchain space while casually sharing food and drinks during or after the event. We keep it cozy and friendly to make everyone comfortable to share and ask 🍵 We give free hugs if you feel like you didn't understand somehting 🤗 It's ok, life isnt just about crypto 😉
+We facilitate workshops for **audiences of all levels** while casually sharing food and drinks during or after the event 🍹
+We create a space that is cozy and friendly so that everyone feels comfortable to share her/his experiences and ask any question 🤗 
+We keep in touch after the event, digitally via chat groups and physically via running more events. 👥👥
 
 ## Track Record
-So far we did a no-knowledge-required hands-on workshops to teach how to use Web3 tools such as Metamask, Maker, etc. In September 2020 we did our first **DeFi Webinar** for professionals of the blockchain space, running over **2h30m**, to help those who are too busy to keep up with the latest trends. 📚
- - Defi Summer Webinar https://www.meetup.com/Barcelona-Blockchain-Love/events/272952516/
- - Workshop https://www.meetup.com/Barcelona-Blockchain-Love/events/269177097/
- - Workshop https://www.meetup.com/Barcelona-Blockchain-Love/events/268826573/
+
+### Events Descriptions
+ - Defi Summer Webinar: covers all the hottest DeFi trends. It is for blockchain-savvy audiences who want an intensive update on the fast-moving DeFi ecosystem. 2h long.
+ - Web3 Tools Workshop: introduces to using tools such as Metamask, Trustwallet, DAi, Maker/CDP, and so on. It is for any level. 2h long.
+ 
+### Past Events
+ - Sep. 9 2020: Defi Summer Webinar https://www.meetup.com/Barcelona-Blockchain-Love/events/273088791/
+ - Sep. 2 2020: Defi Summer Webinar https://www.meetup.com/Barcelona-Blockchain-Love/events/272952516/
+ - Mar. 10 2020: Web3 Tools Workshop https://www.meetup.com/Barcelona-Blockchain-Love/events/269177097/
+ - Feb. 26, 2020: Web3 Tools Workshop https://www.meetup.com/Barcelona-Blockchain-Love/events/268826573/
  - ...
 
 ## Food and Crypto?
-Yes ma'am, and in your kitchen! 🥑🍎🍩 Do not underestimate the power of the kitchen, food unites us all! ✊
+Yes ma'am! 🥑🍎🍩 Do not underestimate the power of the kitchen! ✊
 
 ## History
 This project was started for fun in Barcelona in **Feb 2020** at **Akasha Hub** by Igor Line, Ludo Bret and Adrien Berthou. The same crew who leads the **Barcelona Blockchain Love meetup group**. ☀️ Note that it was started out of frustration of having so many blockchain event attendants who had never used basic tools such as Metamask.🤨
 
 # License
-Everything posted in this repo is under [Creative Commons Zero](https://creativecommons.org/share-your-work/public-domain/cc0/). A kind of "do whatever the F you want license". 🤓 Please help us spread the knowledge, the more educated people will be, the less shitcoins on the planets! We are strong blockchain ecologist fighting for a clean ecosystem 🌎 Else what will we live to our children and grand children? 👶
+Everything posted in this repo is under [Creative Commons Zero](https://creativecommons.org/share-your-work/public-domain/cc0/). A kind of "do whatever the F you want license". 🤓 Please help us spread the knowledge, the more educated people will be, the less shitcoins on the planets! We are strong blockchain ecologists fighting for a clean ecosystem 🌎 Else what will we be left for our children and grand children? 👶
 
-## Find us
+## Connect With Us
  - [meetup.com/Barcelona-Blockchain-Love](https://meetup.com/Barcelona-Blockchain-Love) - Crypto Kitchen events are often in this meetup group
  - [twitter.com/@igorlineee](https://twitter.com/@igorlineee)
  - [medium.com/@igorline](https://medium.com/@igorline)
