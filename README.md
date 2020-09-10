@@ -42,17 +42,19 @@ Else what will we be left for our children and grand children? 👶
 Joke apart, we believe open source is one very core component of what makes blockchain and interent what it is today so we stick to that too.
 
 ## History
-This project was started for fun in Barcelona in **Feb 2020** at **Akasha Hub** by Igor Line, Ludo Bret and Adrien Berthou. The same crew who leads the **Barcelona Blockchain Love meetup group**. ☀️ Note that it was started out of frustration of having so many blockchain event attendants who had never used basic tools such as Metamask.🤨
+This project was started for fun in Barcelona in **Feb 2020** at **Akasha Hub** by Igor Line, Ludo Bret and Adrien Berthou. The same crew who leads the **Barcelona Blockchain Love meetup group**.
+
+Note that it all started out of frustration of having so many blockchain event attendants who had never used basic tools such as Metamask.🤨
 
 ## Connect With Us
- 👥 [meetup.com/Barcelona-Blockchain-Love](https://meetup.com/Barcelona-Blockchain-Love) - Crypto Kitchen events are often in this meetup group
+ 👥 [meetup.com/Barcelona-Blockchain-Love](https://meetup.com/Barcelona-Blockchain-Love) - Crypto Kitchen events are often announced in this group
  
- 📢 [Crypto Kitchen ANN channel on Telegram](https://t.me/joinchat/AAAAAEnQKWhfV9hQZiRRJw)
+ 📢 [Crypto Kitchen ANN channel on Telegram](https://t.me/joinchat/AAAAAEnQKWhfV9hQZiRRJw) - Curated crypto data, tweets and analysis
  
- 🐦 [twitter.com/@igorlineee](https://twitter.com/@igorlineee)
+ 🐦 [twitter.com/@igorlineee](https://twitter.com/@igorlineee) - Igor on Twitter
  
- 📄 [medium.com/@igorline](https://medium.com/@igorline)
+ 📄 [medium.com/@igorline](https://medium.com/@igorline) - Igor on Medium
  
- 🐦 [twitter.com/AdrienBe_](https://twitter.com/AdrienBe_)
+ 🐦 [twitter.com/AdrienBe_](https://twitter.com/AdrienBe_) - Adrien on Twitter
  
- 📄 [medium.com/@AdrienBe](https://medium.com/@AdrienBe)
+ 📄 [medium.com/@AdrienBe](https://medium.com/@AdrienBe) - Adrien on Medium
