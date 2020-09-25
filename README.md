@@ -29,6 +29,7 @@ We keep in touch after the event, digitally via chat groups and physically via r
  - Web3 Tools Workshop: introduces to using tools such as Metamask, Trustwallet, DAi, Maker/CDP, and so on. It is for audiences of any level, no pre-requisites to attend. 2h long.
  
 ### Past Events
+ - Sep. 23 2020: Defi Summer Webinar https://www.meetup.com/Barcelona-Blockchain-Love/events/273157722/
  - Sep. 9 2020: Defi Summer Webinar https://www.meetup.com/Barcelona-Blockchain-Love/events/273088791/
  - Sep. 2 2020: Defi Summer Webinar https://www.meetup.com/Barcelona-Blockchain-Love/events/272952516/
  - Mar. 10 2020: Web3 Tools Workshop https://www.meetup.com/Barcelona-Blockchain-Love/events/269177097/
