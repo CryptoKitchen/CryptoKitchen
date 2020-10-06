@@ -14,6 +14,12 @@ We run these workshops for free or almost so as a thank you note for our work in
 
 These funds will go to the wallet of the Crypto Kitchen and will help us run more events, we will also spend a good part of the funds to support Akasha Hub without whom this would have not been possible. We think maybe some nice kitchen ware 😉
 
+## Crypto Kitchen Wallet Details
+
+Address: 0x3acc36fB393c8D35Ac1b5Ea286Fe26D08829eFEB
+
+See the wallet on: https://gnosis-safe.io/app/#/safes/0x3acc36fB393c8D35Ac1b5Ea286Fe26D08829eFEB/balances
+
 ## For any questions 
 
 Contact directly the team members of the Crypto Kitchen:
