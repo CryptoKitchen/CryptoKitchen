@@ -40,11 +40,11 @@ We keep in touch after the event, digitally via chat groups and physically via r
  ...
 
 ## Docs and Slideshows
- - Defi Summer Webinar of Sep. 25 2020: https://github.com/adrien-be/crypto-kitchen/blob/master/crypto-kitchen_defi-webinar_2020-09-25.pdf
- - Defi Summer Webinar of Sep. 2 2020: https://github.com/adrien-be/crypto-kitchen/blob/master/crypto-kitchen_defi-webinar_2020-09-02.pdf
- - Blockchain Intro Workshop of Mar. 23 2020: https://github.com/adrien-be/crypto-kitchen/blob/master/crypto-kitchen_2020-03-22.pdf
- - Web3 Tools Workshop of Mar. 10 2020: https://github.com/adrien-be/crypto-kitchen/blob/master/crypto-kitchen_2020-03-10.pdf
- - Web3 Tools Workshop of Feb. 26 2020: https://github.com/adrien-be/crypto-kitchen/blob/master/crypto-kitchen_2020-02-26.pdf
+ - Defi Summer Webinar of Sep. 25 2020: https://github.com/CryptoKitchen/CryptoKitchen/blob/master/crypto-kitchen_defi-webinar_2020-09-25.pdf
+ - Defi Summer Webinar of Sep. 2 2020: https://github.com/CryptoKitchen/CryptoKitchen/blob/master/crypto-kitchen_defi-webinar_2020-09-02.pdf
+ - Blockchain Intro Workshop of Mar. 23 2020: https://github.com/CryptoKitchen/CryptoKitchen/blob/master/crypto-kitchen_2020-03-22.pdf
+ - Web3 Tools Workshop of Mar. 10 2020: https://github.com/CryptoKitchen/CryptoKitchen/blob/master/crypto-kitchen_2020-03-10.pdf
+ - Web3 Tools Workshop of Feb. 26 2020: https://github.com/CryptoKitchen/CryptoKitchen/blob/master/crypto-kitchen_2020-02-26.pdf
 
 ## License
 Everything posted in this repo is under [Creative Commons Zero](https://creativecommons.org/share-your-work/public-domain/cc0/). A kind of "do whatever the F you want license".
